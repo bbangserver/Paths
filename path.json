@@ -4,12 +4,12 @@
   "patchMessage": "최신 업데이트를 하고 있습니다...",
   "files": [
     {
-      "path": "Data/Skill/Skill_더미.img",
+      "path": "Data/Skill/더미.img",
       "url": "https://bbangserver.github.io/NoticeServer/SkillDummy.img",
       "sha256": "A3F9C2..."
     },
     {
-      "path": "Data/String/String_스킬명.img",
+      "path": "Data/String/스킬명.img",
       "url": "https://bbangserver.github.io/NoticeServer/StringDummy.img",
       "sha256": "A3F9C2..."
     }
