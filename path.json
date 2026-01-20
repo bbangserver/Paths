@@ -5,13 +5,14 @@
   "files": [
     {
       "path": "Data/Skill/Skill_더미.img",
-      "url": "https://bbangserver.github.io/NoticeServer/SkillDummy.img"
+      "url": "https://bbangserver.github.io/NoticeServer/SkillDummy.img",
       "sha256": "A3F9C2..."
     },
     {
       "path": "Data/String/String_스킬명.img",
-      "url": "https://bbangserver.github.io/NoticeServer/StringDummy.img"
+      "url": "https://bbangserver.github.io/NoticeServer/StringDummy.img",
       "sha256": "A3F9C2..."
     }
   ]
 }
+
