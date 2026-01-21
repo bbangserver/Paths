@@ -1,6 +1,6 @@
 {
   "env": "live",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "event": {
     "enabled": true,
@@ -8,6 +8,6 @@
   },
 
   "notice": {
-    "text": "test"
+    "text": "공지"
   }
 }
