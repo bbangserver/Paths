@@ -4,15 +4,9 @@
   "patchMessage": "최신 업데이트를 하고 있습니다...",
   "files": [
     {
-      "path": "Data/String/Npc.img",
+      "path": "Data/string/Npc.img",
       "url": "https://raw.githubusercontent.com/bbangserver/Paths/main/Npc.img",
       "sha256": "84B256B27E337CFAC0F88EA42CC9B8CA2DD8D44793D77307579F0C8E184AF6F0"
-    },
-    {
-      "path": "Data/String/스킬명.img",
-      "url": "https://bbangserver.github.io/NoticeServer/StringDummy.img",
-      "sha256": "A3F9C2..."
     }
   ]
 }
-
