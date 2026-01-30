@@ -4,7 +4,7 @@
   "patchMessage": "최신 업데이트를 하고 있습니다...",
   "files": [
     {
-      "path": "Data/Skill/더미.img",
+      "path": "Data/String/Npc.img",
       "url": "https://raw.githubusercontent.com/bbangserver/Paths/main/Npc.img",
       "sha256": "84B256B27E337CFAC0F88EA42CC9B8CA2DD8D44793D77307579F0C8E184AF6F0"
     },
